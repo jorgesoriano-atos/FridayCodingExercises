@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5083bce0-9529-41ec-8035-00aa97b9c442": {
+      "ProjectGuid": "5083bce0-9529-41ec-8035-00aa97b9c442",
+      "DisplayName": "Calculators",
+      "ColorIndex": 0
+    },
+    "5fdd01e3-03c3-4915-b0e2-6aa037e75107": {
+      "ProjectGuid": "5fdd01e3-03c3-4915-b0e2-6aa037e75107",
+      "DisplayName": "UnitTesting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
