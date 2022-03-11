@@ -1,0 +1,16 @@
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ProgramacionIntermedia2.exe
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ProgramacionIntermedia2.deps.json
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ProgramacionIntermedia2.runtimeconfig.json
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ProgramacionIntermedia2.runtimeconfig.dev.json
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ProgramacionIntermedia2.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ref\ProgramacionIntermedia2.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\bin\Debug\net5.0\ProgramacionIntermedia2.pdb
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ref\ProgramacionIntermedia2.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.pdb
+C:\Users\a846809\Documents\Git\FridayExercises\Practica3\ProgramacionIntermedia2\obj\Debug\net5.0\ProgramacionIntermedia2.genruntimeconfig.cache

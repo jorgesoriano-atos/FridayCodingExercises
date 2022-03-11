@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zB/x3yFbN1pw+pO/eU56o/bYEyxfH/7J2+wS+Eae9nCgsiiRTb/eDPamktTy+j0njjUgXCum6IUrScAV7ccGvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a846809\\Documents\\Git\\FridayExercises\\Practica3\\ProgramacionIntermedia2\\ProgramacionIntermedia2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a846809\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
