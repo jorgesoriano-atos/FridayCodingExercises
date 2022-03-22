@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqSdhlhA4+pC0fYOlbcc3un1yAxUg25ognFNFs7KV8r+G6t5AA98xdzC99lAVnZNpIwKPX4RbgGts/saabKWqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a846809\\Documents\\Git\\FridayExercises\\Practica4\\ProgramacionAvanzada1\\ProgramacionAvanzada1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a846809\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

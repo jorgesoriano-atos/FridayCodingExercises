@@ -1,0 +1,16 @@
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ProgramacionAvanzada1.exe
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ProgramacionAvanzada1.deps.json
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ProgramacionAvanzada1.runtimeconfig.json
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ProgramacionAvanzada1.runtimeconfig.dev.json
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ProgramacionAvanzada1.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ref\ProgramacionAvanzada1.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\bin\Debug\net5.0\ProgramacionAvanzada1.pdb
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.csproj.AssemblyReference.cache
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.AssemblyInfoInputs.cache
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.AssemblyInfo.cs
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.csproj.CoreCompileInputs.cache
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ref\ProgramacionAvanzada1.dll
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.pdb
+C:\Users\a846809\Documents\Git\FridayExercises\Practica4\ProgramacionAvanzada1\obj\Debug\net5.0\ProgramacionAvanzada1.genruntimeconfig.cache
